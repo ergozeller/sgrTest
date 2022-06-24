@@ -3,6 +3,7 @@
 # Publizierte Device Profile
 
 - [abb_terra_01](ExtInterfaces/abb_terra_01.xml)
+- [betaModbusABBMeterV0.1.2](ExtInterfaces/betaModbusABBMeterV0.1.2.xml)
 
 You can use the [editor on GitHub](https://github.com/ergozeller/sgrTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
